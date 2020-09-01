@@ -391,6 +391,6 @@
   ('multiprocessing',
    'c:\\python\\lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
-  ('os', 'c:\\python\\lib\\os.py', 'PYMODULE'),
+  ('stringprep', 'c:\\python\\lib\\stringprep.py', 'PYMODULE'),
   ('_py_abc', 'c:\\python\\lib\\_py_abc.py', 'PYMODULE'),
-  ('stringprep', 'c:\\python\\lib\\stringprep.py', 'PYMODULE')])
+  ('os', 'c:\\python\\lib\\os.py', 'PYMODULE')])
