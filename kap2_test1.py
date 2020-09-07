@@ -27,7 +27,7 @@ while running == True:
         fråga2 = input()
         print("Skriv in tal nummer två:")
         fråga3 = input()
-        print("Calculating....")
+        print("Beräknar....")
         fråga1 = "gg"
 
 
@@ -45,7 +45,7 @@ while running == True:
         fråga2 = input()
         print("Skriv in tal nummer två:")
         fråga3 = input()
-        print("Calculating....")
+        print("Beräknar....")
         fråga1 = "ggg"
     if fråga1 == "ggg":
         if stimer > 0:
